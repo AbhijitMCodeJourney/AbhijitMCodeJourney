@@ -7,7 +7,7 @@
 - 📫 How to reach me *abhijitmali015@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shekhar-patil-634918236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=https://www.linkedin.com/in/abhijit-mali-566003252 /" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhijit-mali-566003252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=https://www.linkedin.com/in/abhijit-mali-566003252 /" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/shekharpatil_45/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www./?hl=en" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/l4545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.4545" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/shekharp_45/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://_45/" height="30" width="40" /></a>
